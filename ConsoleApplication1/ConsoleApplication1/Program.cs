@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Привет");
             String name = Console.ReadLine();
-            if (name == "Саша")
+            if (name == "Миша")
             {
                 Console.WriteLine("Привет " + name);
             } else
